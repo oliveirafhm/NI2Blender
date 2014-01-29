@@ -1,4 +1,4 @@
-This project is a of my master thesis
+This project is a part of my master thesis
 
 Demo: http://www.youtube.com/watch?v=Qebbo2s1GB0
 
